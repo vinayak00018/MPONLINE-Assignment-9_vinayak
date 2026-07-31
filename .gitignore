@@ -1,7 +1,7 @@
 # Dataset folders & archives
 PetImages/
 *.zip
-
+.env
 # Kaggle API keys
 kaggle.json
 
