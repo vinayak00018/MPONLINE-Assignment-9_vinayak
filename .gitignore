@@ -1,0 +1,21 @@
+# Dataset folders & archives
+PetImages/
+*.zip
+
+# Kaggle API keys
+kaggle.json
+
+# Model weights & export checkpoints
+*.h5
+*.keras
+checkpoint/
+
+# Jupyter & Environment files
+.ipynb_checkpoints/
+.virtual_documents/
+anaconda_projects/
+
+# OS and system cache
+.DS_Store
+__pycache__/
+*.pyc
